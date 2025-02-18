@@ -49,6 +49,9 @@ Before using FileWhisperer, ensure you meet the following prerequisites:
 
 2. **Configure Your API Key**
    - Open the script and insert your API key as shown above to enable AI-powered analysis.
+   - Get your API keys from the following links:
+     - [Google Gemini API](https://aistudio.google.com/apikey)
+     - [Together AI](https://api.together.ai/settings/api-keys)
 
 3. **Adjust Configurable Settings**
    - The script allows you to fine-tune its behavior with several constants:
@@ -116,7 +119,7 @@ FileWhisperer supports a variety of common file relationships, including:
 
 - **Configuration Files:** (.config, .json, .xml, .yaml, .ini)
 - **Documentation:** (.md, .txt, .doc, .pdf)
-- **Programming Files:**
+- **Dev:**
   - Python: (.py, .pyc, .pyw, requirements.txt)
   - JavaScript/TypeScript: (.js, .ts, .jsx, package.json)
   - C++: (.cpp, .h, .hpp)
