@@ -130,3 +130,6 @@ FileWhisperer supports a variety of common file relationships, including:
 - [ ] Add relationships between more files
 - [ ] Add structured output for gemini
 - [ ] Add a README section to setup script to import on every new powershell session
+
+# License
+MIT[https://github.com/d3d0n/FileWhisperer/blob/main/LICENSE]
